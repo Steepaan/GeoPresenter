@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.venv/
+env/
+venv/
+
+# Lokální konfigurace a tajné klíče
+config.json
+
+# Vygenerované artefakty a dočasné soubory
+index.html
+
+# Multimédia a testovací data
+photos/
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.mp4
+*.mov
+*.m4v
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
